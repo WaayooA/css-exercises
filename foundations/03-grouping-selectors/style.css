@@ -1,0 +1,18 @@
+.colorful,.inverted{
+
+    font-size: 36px;
+    font-weight: 500;
+    
+}
+.colorful{
+
+    background-color: yellow;
+    
+
+}
+.inverted{
+
+    background-color: black;
+    color: white;
+
+}
